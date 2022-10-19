@@ -1,0 +1,12 @@
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\bin\Debug\Pizza Ordering System.exe.config
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\bin\Debug\Pizza Ordering System.exe
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\bin\Debug\Pizza Ordering System.pdb
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\bin\Debug\Pizza Ordering System.xml
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza_Ordering_System.Form1.resources
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza_Ordering_System.Resources.resources
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.vbproj.GenerateResource.Cache
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.vbproj.CoreCompileInputs.cache
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.exe
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.xml
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.pdb
+E:\College Stuff\IT Level 3\Unit 14\Pizza Ordering System\Pizza Ordering System\obj\Debug\Pizza Ordering System.vbprojAssemblyReference.cache
